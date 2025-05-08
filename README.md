@@ -11,9 +11,10 @@ The goal of this utility is to **declutter folders** by moving files into catego
 For example:
 
 document.pdf → D:\Datos\Downloads\pdf\document.pdf
+
 image.jpg → D:\Datos\Downloads\jpg\image.jpg
+
 script.js → D:\Datos\Downloads\js\script.js
-README → D:\Datos\Downloads\sin_extension\README
 
 
 ---
@@ -56,22 +57,31 @@ README → D:\Datos\Downloads\sin_extension\README
 
 ## 📂 Example Directory Before
 D:\Datos\Downloads
+
 ├── resume.pdf
+
 ├── photo.jpg
+
 ├── archive.zip
+
 ├── script.py
-├── LICENSE
+
 
 ## 📂 Example Directory After
 D:\Datos\Downloads
+
 ├── pdf
+
 │ └── resume.pdf
+
 ├── jpg
+
 │ └── photo.jpg
+
 ├── zip
+
 │ └── archive.zip
+
 ├── py
+
 │ └── script.py
-├── sin_extension
-│ └── LICENSE
-│ └── LICENSE
